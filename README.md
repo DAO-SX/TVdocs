@@ -8,3 +8,5 @@ gitbook init
 gitbook serve
 
 ```
+
+# [Updated on site:Textverse.org ](https://Textverse.org)
